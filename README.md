@@ -18,6 +18,10 @@ There were 3 rounds of interview.
                        
      4th interview :- It was an interview with hiring manager (Sr operation manager). Interviewer asked only Leadeship based behaviour questions. It was non-technical interview
                       Leadership principle :-  Earn trust and Customer obsession
+                      
+ 
+Attached is a leadership principles based behaviour Q and A. it is based on my DBa experience and some of them are made up stories. 
+For OS and networking related technical questions and answers, please check CSE interview questions attachment. it includes questions it was asked during interview.
                      
 
   
